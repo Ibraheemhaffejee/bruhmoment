@@ -1,0 +1,8 @@
+C:\Users\Ibraheem\source\repos\ProtectAccess\bin\Debug\ProtectAccess.exe.config
+C:\Users\Ibraheem\source\repos\ProtectAccess\bin\Debug\ProtectAccess.exe
+C:\Users\Ibraheem\source\repos\ProtectAccess\bin\Debug\ProtectAccess.pdb
+C:\Users\Ibraheem\source\repos\ProtectAccess\obj\Debug\ProtectAccess.csproj.AssemblyReference.cache
+C:\Users\Ibraheem\source\repos\ProtectAccess\obj\Debug\ProtectAccess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ibraheem\source\repos\ProtectAccess\obj\Debug\ProtectAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ibraheem\source\repos\ProtectAccess\obj\Debug\ProtectAccess.exe
+C:\Users\Ibraheem\source\repos\ProtectAccess\obj\Debug\ProtectAccess.pdb
